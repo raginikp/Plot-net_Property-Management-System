@@ -1,8 +1,6 @@
-# Plot-net_Property-Management-System
-Combine Ai with Angular and here you are.
-
 # PlotNet Frontend - Property Management System
 
+Combining Ai with Angular
 A comprehensive Angular frontend application for managing property schemes, sales, and administration in the real estate industry.
 
 ## Features
